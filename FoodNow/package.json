@@ -10,7 +10,7 @@
     "@shoutem/ui": "^0.23.9",
     "query-string": "^6.2.0",
     "react": "^16.6.3",
-    "react-native": "^0.57.8",
+    "react-native": "^0.70.2",
     "react-native-linear-gradient": "^2.5.3",
     "react-native-maps": "^0.22.1",
     "react-native-photo-view": "^1.5.2",
